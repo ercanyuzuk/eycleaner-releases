@@ -10,7 +10,7 @@ dosyasını açın ve EYCleaner'ı Applications klasörüne sürükleyin. Gereks
 
 ## Güncellemeler
 
-1.4 ve sonrası yeni sürümleri kendisi bulur: açılışta bir bildirim çıkar, "Güncellemeyi Yükle" dendiğinde
+1.4 ve sonrası yeni sürümleri kendisi bulur: açılışta bir bildirim çıkar, "Yükle" dendiğinde
 indirir, kurar ve yeniden başlatır. Elle kontrol için: EYCleaner menüsü → Güncellemeleri Denetle.
 1.3 ve öncesini kullanıyorsanız bir kereliğine son sürümü buradan elle kurun.
 
